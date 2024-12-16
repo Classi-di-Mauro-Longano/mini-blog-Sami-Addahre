@@ -1,0 +1,297 @@
+
+.voce-grid{
+    display: grid;
+    background-color: #ffffff;
+    grid-auto-rows: 1px;
+    grid-template-columns: 30px;
+    align-self: center;
+    place-content: center;
+}
+
+.immagine{
+    display: flex;
+    margin: auto;
+    position: relative;
+    top: 23px;
+    right: 295px;
+    width: 470px;
+}
+.description{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -238px;
+    right: 2px;
+    font-size: 8px;
+}
+.testo1{
+    position: relative;
+    place-content: center;
+    display: flex;
+    font-weight: bold;
+    color:  rgba(44, 44, 44, 1);
+    top: -230px;
+    right: -117px;
+    font-size: 20px;
+}
+
+.descrizione1{
+    display: grid;
+    grid-auto-rows: 80px;
+    grid-template-columns: 600px;
+    align-self: center;
+    place-content: center;
+}
+.testodesc1{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    position: relative;
+    top: -220px;
+    right: -258px;
+    align-content:top; 
+    color: rgba(110, 110, 110, 1);
+}
+.testodesc2{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    position: relative;
+    top: -200px;
+    right: -258px;
+    align-content:top; 
+    color: rgba(110, 110, 110, 1);
+}   
+.description2{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -186px;
+    right: 20px;
+    font-size: 8px;
+}
+
+.description3{
+    color: #1473E6;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -214px;
+    right: -499px;
+    font-size: 8px;
+}
+.immagine2{
+    display: flex;
+    margin: auto;
+    position: relative;
+    top: -150px;
+    right: 380px;
+    width: 300px;
+}
+.description4{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -140px;
+    right: 485px;
+    font-size: 8px;
+}
+.testo3{
+    position: relative;
+    place-content: center;
+    display: flex;
+    font-weight: bold;
+    color:  rgba(44, 44, 44, 1);
+    top: -130px;
+    right: 494px;
+}
+.testodesc3-container{
+    visibility: visible;
+    grid-auto-rows: 90px;
+    grid-template-columns: 297px;
+    display: grid;
+    background-color: rgb(255, 255, 255);
+}
+.testodesc3{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    position: relative;
+    top: -124px;
+    right: 377px;
+    align-content:top; 
+    color: rgba(110, 110, 110, 1);
+}
+.description5{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -112px;
+    right: 503px;
+    font-size: 8px;
+}
+.description6{
+    color: #1473E6;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -141px;
+    right: 270px;
+    font-size: 8px;
+}
+
+.immagine3{
+    display: flex;
+    margin: auto;
+    position: relative;
+    top: -489px;
+    right: 0px;
+    width: 300px;
+}
+.description7{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -480px;
+    right: 106px;
+    font-size: 8px;
+}
+.testo4{
+    position: relative;
+    place-content: center;
+    display: flex;
+    font-weight: bold;
+    color:  rgba(44, 44, 44, 1);
+    top: -470px;
+    right: 100px;
+}
+.container-description4{
+    align-self: center;
+    place-content: center;
+    visibility: visible;
+    grid-auto-rows: 90px;
+    grid-template-columns: 300px;
+    display: grid;
+    background-color: rgb(255, 255, 255);
+
+}
+.testodesc4{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    position: relative;
+    top: -464px;
+    right: -3px;
+    align-content:top; 
+    color: rgba(110, 110, 110, 1);
+}
+.description8{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -450px;
+    right: 125px;
+    font-size: 8px;
+}
+
+.description9{
+    color: #1473E6;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -480px;
+    right: -110px;
+    font-size: 8px;
+}
+.immagine4{
+    display: flex;
+    margin: auto;
+    position: relative;
+    right: -379px;
+    top: -827px;
+    width: 300px;
+}
+.testodesc7{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -817px;
+    right: -274px;
+    font-size: 8px;
+}
+.testo5{
+    position: relative;
+    place-content: center;
+    display: flex;
+    font-weight: bold;
+    color:  rgba(44, 44, 44, 1);
+    top: -807px;
+    right: -280px;
+}
+.testodesc5-container{
+    align-self: center;
+    place-content: center;
+    visibility: visible;
+    grid-auto-rows: 90px;
+    grid-template-columns: 300px;
+    display: grid;
+    background-color: rgb(255, 255, 255);
+}
+.testodesc5{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    position: relative;
+    top: -800px;
+    right: -383px;
+    align-content:top; 
+    color: rgba(110, 110, 110, 1);
+}
+.description11{
+    color: rgba(110, 110, 110, 1);;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -788px;
+    right: -257px;
+    font-size: 8px;
+}
+
+.description10{
+    color: #1473E6;
+    font-weight: bold;
+    place-content: center;
+    display: flex;
+    position: relative;
+    top: -818px;
+    right: -490px;
+    font-size: 8px;
+}
+.spazio{
+    display: grid;
+    grid-auto-rows: 0px;
+    grid-template-columns: 100px;
+    align-self: center;
+    place-content: center;
+}
+.spaziotext{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    position: relative;
+    top: 100px;
+    align-content:top; 
+    color: rgba(110, 110, 110, 1);
+}
